@@ -1,0 +1,1995 @@
+[
+  {
+    "variant": 1,
+    "number": 1,
+    "cue": "Contract changes budget",
+    "rawAnswer": "A — The undistributed budget",
+    "status": "existing",
+    "questionId": 1
+  },
+  {
+    "variant": 1,
+    "number": 2,
+    "cue": "Earned value / problems",
+    "rawAnswer": "E — Finding and solving problems before they grow",
+    "status": "existing",
+    "questionId": 2
+  },
+  {
+    "variant": 1,
+    "number": 3,
+    "cue": "Formal groups creation",
+    "rawAnswer": "A — By management decision, for organizational goals",
+    "status": "existing",
+    "questionId": 3
+  },
+  {
+    "variant": 1,
+    "number": 4,
+    "cue": "Power for final decisions",
+    "rawAnswer": "D — Authority",
+    "status": "existing",
+    "questionId": 54
+  },
+  {
+    "variant": 1,
+    "number": 5,
+    "cue": "Strong versus weak matrix",
+    "rawAnswer": "D — Who has more influence over workers’ daily performance",
+    "status": "existing",
+    "questionId": 4
+  },
+  {
+    "variant": 1,
+    "number": 6,
+    "cue": "Matrix combines structures",
+    "rawAnswer": "C — Pure functional and project structures",
+    "status": "existing",
+    "questionId": 5
+  },
+  {
+    "variant": 1,
+    "number": 7,
+    "cue": "Comprehensive documentation",
+    "rawAnswer": "B — Working software",
+    "status": "existing",
+    "questionId": 6
+  },
+  {
+    "variant": 1,
+    "number": 8,
+    "cue": "Kanban Japanese meaning",
+    "rawAnswer": "D — Signboard",
+    "status": "existing",
+    "questionId": 7
+  },
+  {
+    "variant": 1,
+    "number": 9,
+    "cue": "Agile family / size & criticality",
+    "rawAnswer": "B — Crystal",
+    "status": "existing",
+    "questionId": 8
+  },
+  {
+    "variant": 1,
+    "number": 10,
+    "cue": "Difficult problems / value",
+    "rawAnswer": "A — Courage",
+    "status": "existing",
+    "questionId": 51
+  },
+  {
+    "variant": 1,
+    "number": 11,
+    "cue": "Sprint Planning topic one",
+    "rawAnswer": "E — Why is this Sprint valuable?",
+    "status": "existing",
+    "questionId": 10
+  },
+  {
+    "variant": 1,
+    "number": 12,
+    "cue": "Product Backlog commitment",
+    "rawAnswer": "B — The Product Goal",
+    "status": "existing",
+    "questionId": 11
+  },
+  {
+    "variant": 1,
+    "number": 13,
+    "cue": "Persona interaction / why",
+    "rawAnswer": "C — Motivations",
+    "status": "existing",
+    "questionId": 12
+  },
+  {
+    "variant": 1,
+    "number": 14,
+    "cue": "INVEST / delivery flexibility",
+    "rawAnswer": "C — Negotiable",
+    "status": "existing",
+    "questionId": 13
+  },
+  {
+    "variant": 1,
+    "number": 15,
+    "cue": "3Cs elements",
+    "rawAnswer": "E — Card, Conversation and Confirmation",
+    "status": "existing",
+    "questionId": 14
+  },
+  {
+    "variant": 1,
+    "number": 16,
+    "cue": "Unfinished cost forecast",
+    "rawAnswer": "B — Periodic re-estimation of cost to complete",
+    "status": "existing",
+    "questionId": 52
+  },
+  {
+    "variant": 1,
+    "number": 17,
+    "cue": "Signed work order",
+    "rawAnswer": "A — Work authorization and release",
+    "status": "existing",
+    "questionId": 15
+  },
+  {
+    "variant": 1,
+    "number": 18,
+    "cue": "CV / 450, 400, 500",
+    "rawAnswer": "B — −100; the work cost more than budgeted",
+    "status": "existing",
+    "questionId": 16
+  },
+  {
+    "variant": 1,
+    "number": 19,
+    "cue": "CPI / 400, 500",
+    "rawAnswer": "B — 0.8; work is costing more than planned",
+    "status": "existing",
+    "questionId": 17
+  },
+  {
+    "variant": 1,
+    "number": 20,
+    "cue": "BAC 1000 / CPI 0.8",
+    "rawAnswer": "D — $1,250 thousand",
+    "status": "existing",
+    "questionId": 18
+  },
+  {
+    "variant": 1,
+    "number": 21,
+    "cue": "Developers argue",
+    "rawAnswer": "C — Storming",
+    "status": "existing",
+    "questionId": 19
+  },
+  {
+    "variant": 1,
+    "number": 22,
+    "cue": "Different role expectations",
+    "rawAnswer": "A — Role conflict",
+    "status": "existing",
+    "questionId": 20
+  },
+  {
+    "variant": 1,
+    "number": 23,
+    "cue": "Skilled engineers / structure",
+    "rawAnswer": "E — Точная формулировка варианта E не подтверждена исходником [текст требует фото]",
+    "status": "unverified"
+  },
+  {
+    "variant": 1,
+    "number": 24,
+    "cue": "Trust stage / future trouble",
+    "rawAnswer": "A — Both begin to formally anticipate problems",
+    "status": "new-short-question",
+    "cardId": "add-1-24"
+  },
+  {
+    "variant": 1,
+    "number": 25,
+    "cue": "Department spending",
+    "rawAnswer": "B — Easier budgeting and cost control",
+    "status": "existing",
+    "questionId": 23
+  },
+  {
+    "variant": 1,
+    "number": 26,
+    "cue": "Client focal point",
+    "rawAnswer": "E — No customer focal point",
+    "status": "existing",
+    "questionId": 24
+  },
+  {
+    "variant": 1,
+    "number": 27,
+    "cue": "Coordination before PMs",
+    "rawAnswer": "A — Integrating mechanisms",
+    "status": "existing",
+    "questionId": 25
+  },
+  {
+    "variant": 1,
+    "number": 28,
+    "cue": "Program manager and merit",
+    "rawAnswer": "E — Full line authority over the project",
+    "status": "existing",
+    "questionId": 26
+  },
+  {
+    "variant": 1,
+    "number": 29,
+    "cue": "Fast fintech / matrix",
+    "rawAnswer": "D — A matrix organization",
+    "status": "existing",
+    "questionId": 27
+  },
+  {
+    "variant": 1,
+    "number": 30,
+    "cue": "Standard school / known steps",
+    "rawAnswer": "E — A defined process with steps set in advance",
+    "status": "existing",
+    "questionId": 28
+  },
+  {
+    "variant": 1,
+    "number": 31,
+    "cue": "Fixed budget & deadline",
+    "rawAnswer": "A — Adjust scope within fixed cost and time",
+    "status": "existing",
+    "questionId": 29
+  },
+  {
+    "variant": 1,
+    "number": 32,
+    "cue": "80% completed story",
+    "rawAnswer": "B — Working software is the measure of progress",
+    "status": "existing",
+    "questionId": 30
+  },
+  {
+    "variant": 1,
+    "number": 33,
+    "cue": "Tests before code / XP",
+    "rawAnswer": "D — Test-driven development",
+    "status": "existing",
+    "questionId": 31
+  },
+  {
+    "variant": 1,
+    "number": 34,
+    "cue": "Parallel projects / handoffs",
+    "rawAnswer": "C — Task switching",
+    "status": "existing",
+    "questionId": 32
+  },
+  {
+    "variant": 1,
+    "number": 35,
+    "cue": "Choosing tools / Lean",
+    "rawAnswer": "E — Empower the team",
+    "status": "existing",
+    "questionId": 33
+  },
+  {
+    "variant": 1,
+    "number": 36,
+    "cue": "Unplanned meetings / leadership",
+    "rawAnswer": "D — Shielding the team from interruptions",
+    "status": "existing",
+    "questionId": 34
+  },
+  {
+    "variant": 1,
+    "number": 37,
+    "cue": "Citizen portal / feedback",
+    "rawAnswer": "C — Empiricism",
+    "status": "existing",
+    "questionId": 35
+  },
+  {
+    "variant": 1,
+    "number": 38,
+    "cue": "Testing sub-team",
+    "rawAnswer": "D — Reject it: Scrum Team has no sub-teams or hierarchies",
+    "status": "existing",
+    "questionId": 36
+  },
+  {
+    "variant": 1,
+    "number": 39,
+    "cue": "Product Owner committee",
+    "rawAnswer": "B — The Product Owner must be one person, not a committee",
+    "status": "existing",
+    "questionId": 37
+  },
+  {
+    "variant": 1,
+    "number": 40,
+    "cue": "Scrum Master assigning tasks",
+    "rawAnswer": "A — The Scrum Master should coach self-management, not assign work",
+    "status": "existing",
+    "questionId": 38
+  },
+  {
+    "variant": 1,
+    "number": 41,
+    "cue": "Six-week Sprints",
+    "rawAnswer": "E — Sprints must be fixed at one month or less",
+    "status": "existing",
+    "questionId": 39
+  },
+  {
+    "variant": 1,
+    "number": 42,
+    "cue": "Long Daily Scrum",
+    "rawAnswer": "C — Keep it to 15 minutes, focused on the Sprint Goal",
+    "status": "existing",
+    "questionId": 40
+  },
+  {
+    "variant": 1,
+    "number": 43,
+    "cue": "Stakeholders test product",
+    "rawAnswer": "D — Sprint Review",
+    "status": "existing",
+    "questionId": 41
+  },
+  {
+    "variant": 1,
+    "number": 44,
+    "cue": "Bakery customer / persona",
+    "rawAnswer": "C — Empathize with users and align the portal with their needs",
+    "status": "existing",
+    "questionId": 185
+  },
+  {
+    "variant": 1,
+    "number": 45,
+    "cue": "Expand personas",
+    "rawAnswer": "E — Expand personas into the long template using new research",
+    "status": "existing",
+    "questionId": 42
+  },
+  {
+    "variant": 1,
+    "number": 46,
+    "cue": "Combined average persona",
+    "rawAnswer": "A — A generic persona that tries to suit everyone at once",
+    "status": "existing",
+    "questionId": 186
+  },
+  {
+    "variant": 1,
+    "number": 47,
+    "cue": "Income certificate / WHY",
+    "rawAnswer": "D — The benefit or value to the user (WHY)",
+    "status": "existing",
+    "questionId": 43
+  },
+  {
+    "variant": 1,
+    "number": 48,
+    "cue": "Loan acceptance criteria",
+    "rawAnswer": "B — Acceptance criteria define story boundaries for verification",
+    "status": "existing",
+    "questionId": 44
+  },
+  {
+    "variant": 1,
+    "number": 49,
+    "cue": "Fortnightly releases",
+    "rawAnswer": "C — Small testable slices enable fast delivery and feedback",
+    "status": "existing",
+    "questionId": 45
+  },
+  {
+    "variant": 1,
+    "number": 50,
+    "cue": "900 stories / backlog",
+    "rawAnswer": "C — Refine and reprioritize the backlog regularly",
+    "status": "existing",
+    "questionId": 46
+  },
+  {
+    "variant": 2,
+    "number": 1,
+    "cue": "Unallocated budget meaning",
+    "rawAnswer": "C — Tasks not yet identified or authorized",
+    "status": "existing",
+    "questionId": 137
+  },
+  {
+    "variant": 2,
+    "number": 2,
+    "cue": "EVMS continuous warning",
+    "rawAnswer": "B — To catch variances while they are small",
+    "status": "existing",
+    "questionId": 138
+  },
+  {
+    "variant": 2,
+    "number": 3,
+    "cue": "Two informal groups",
+    "rawAnswer": "D — Interest and friendship groups",
+    "status": "new-short-question",
+    "cardId": "add-2-3"
+  },
+  {
+    "variant": 2,
+    "number": 4,
+    "cue": "Responsibility definition",
+    "rawAnswer": "E — A duty to perform assigned work effectively",
+    "status": "new-short-question",
+    "cardId": "add-2-4"
+  },
+  {
+    "variant": 2,
+    "number": 5,
+    "cue": "More PM influence",
+    "rawAnswer": "D — As a strong matrix",
+    "status": "existing",
+    "questionId": 4
+  },
+  {
+    "variant": 2,
+    "number": 6,
+    "cue": "PM authority source",
+    "rawAnswer": "A — Directly from the general manager",
+    "status": "new-short-question",
+    "cardId": "add-2-6"
+  },
+  {
+    "variant": 2,
+    "number": 7,
+    "cue": "Customer collaboration valued over",
+    "rawAnswer": "E — Contract negotiation",
+    "status": "new-short-question",
+    "cardId": "add-2-7"
+  },
+  {
+    "variant": 2,
+    "number": 8,
+    "cue": "Kanban origin",
+    "rawAnswer": "C — Toyota’s lean production system",
+    "status": "new-short-question",
+    "cardId": "add-2-8"
+  },
+  {
+    "variant": 2,
+    "number": 9,
+    "cue": "FDD / domain model",
+    "rawAnswer": "C — Feature-Driven Development",
+    "status": "new-short-question",
+    "cardId": "add-2-9"
+  },
+  {
+    "variant": 2,
+    "number": 10,
+    "cue": "Scrum openness",
+    "rawAnswer": "A — Sharing the work and its problems honestly with others",
+    "status": "new-short-question",
+    "cardId": "add-2-10"
+  },
+  {
+    "variant": 2,
+    "number": 11,
+    "cue": "Sprint Goal finalization",
+    "rawAnswer": "B — Sprint Planning",
+    "status": "new-short-question",
+    "cardId": "add-2-11"
+  },
+  {
+    "variant": 2,
+    "number": 12,
+    "cue": "Definition of Done commitment",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — The Increment (Definition of Done). Буква A–E не подтверждена",
+    "status": "unverified"
+  },
+  {
+    "variant": 2,
+    "number": 13,
+    "cue": "Persona name and photo",
+    "rawAnswer": "D — To make it relatable and build empathy",
+    "status": "new-short-question",
+    "cardId": "add-2-13"
+  },
+  {
+    "variant": 2,
+    "number": 14,
+    "cue": "INVEST independent",
+    "rawAnswer": "A — It can be delivered apart from other features",
+    "status": "new-short-question",
+    "cardId": "add-2-14"
+  },
+  {
+    "variant": 2,
+    "number": 15,
+    "cue": "3Cs confirmation",
+    "rawAnswer": "B — As acceptance criteria",
+    "status": "new-short-question",
+    "cardId": "add-2-15"
+  },
+  {
+    "variant": 2,
+    "number": 16,
+    "cue": "Unapproved spending",
+    "rawAnswer": "E — Disciplined budgeting and authorization of spending",
+    "status": "new-short-question",
+    "cardId": "add-2-16"
+  },
+  {
+    "variant": 2,
+    "number": 17,
+    "cue": "Weekly invoices / operating cycle",
+    "rawAnswer": "E — Cost data collection and reporting",
+    "status": "new-short-question",
+    "cardId": "add-2-17"
+  },
+  {
+    "variant": 2,
+    "number": 18,
+    "cue": "SV / 600, 500, 450",
+    "rawAnswer": "D — −100; progress is slower than planned",
+    "status": "new-short-question",
+    "cardId": "add-2-18"
+  },
+  {
+    "variant": 2,
+    "number": 19,
+    "cue": "SPI / BCWP 500, BCWS 400",
+    "rawAnswer": "B — 1.25; progress is ahead of plan",
+    "status": "new-short-question",
+    "cardId": "add-2-19"
+  },
+  {
+    "variant": 2,
+    "number": 20,
+    "cue": "BAC 2000, EAC 2500",
+    "rawAnswer": "C — −500; a forecast overrun at completion",
+    "status": "new-short-question",
+    "cardId": "add-2-20"
+  },
+  {
+    "variant": 2,
+    "number": 21,
+    "cue": "First working group meeting",
+    "rawAnswer": "C — Forming",
+    "status": "new-short-question",
+    "cardId": "add-2-21"
+  },
+  {
+    "variant": 2,
+    "number": 22,
+    "cue": "Sponsor/team/auditor expectations",
+    "rawAnswer": "B — Her role set",
+    "status": "new-short-question",
+    "cardId": "add-2-22"
+  },
+  {
+    "variant": 2,
+    "number": 23,
+    "cue": "Unhappy data scientists",
+    "rawAnswer": "B — A sign the current structure fits projects poorly",
+    "status": "new-short-question",
+    "cardId": "add-2-23"
+  },
+  {
+    "variant": 2,
+    "number": 24,
+    "cue": "Anticipating trouble / trust",
+    "rawAnswer": "C — Anticipating problems together",
+    "status": "duplicate-supplement",
+    "cardId": "add-1-24"
+  },
+  {
+    "variant": 2,
+    "number": 25,
+    "cue": "Scarce specialists",
+    "rawAnswer": "B — Better use of scarce specialists",
+    "status": "new-short-question",
+    "cardId": "add-2-25"
+  },
+  {
+    "variant": 2,
+    "number": 26,
+    "cue": "Functional jobs before project",
+    "rawAnswer": "C — Functional priorities come before project tasks",
+    "status": "new-short-question",
+    "cardId": "add-2-26"
+  },
+  {
+    "variant": 2,
+    "number": 27,
+    "cue": "Representatives and loyalty",
+    "rawAnswer": "D — “Manager” implies a permanent relationship",
+    "status": "new-short-question",
+    "cardId": "add-2-27"
+  },
+  {
+    "variant": 2,
+    "number": 28,
+    "cue": "Projectized staff authority",
+    "rawAnswer": "A — The cost of maintaining the organization",
+    "status": "new-short-question",
+    "cardId": "add-2-28"
+  },
+  {
+    "variant": 2,
+    "number": 29,
+    "cue": "Matrix for dynamic market",
+    "rawAnswer": "A — It seeks technology and schedule together",
+    "status": "new-short-question",
+    "cardId": "add-2-29"
+  },
+  {
+    "variant": 2,
+    "number": 30,
+    "cue": "Work complexity / method",
+    "rawAnswer": "D — An empirical, iterative and incremental process",
+    "status": "new-short-question",
+    "cardId": "add-2-30"
+  },
+  {
+    "variant": 2,
+    "number": 31,
+    "cue": "Agile planning triangle",
+    "rawAnswer": "D — Traditional fixes scope; agile fixes cost and time",
+    "status": "new-short-question",
+    "cardId": "add-2-31"
+  },
+  {
+    "variant": 2,
+    "number": 32,
+    "cue": "Sustainable pace",
+    "rawAnswer": "C — Keeping a constant pace",
+    "status": "new-short-question",
+    "cardId": "add-2-32"
+  },
+  {
+    "variant": 2,
+    "number": 33,
+    "cue": "Two people at workstation",
+    "rawAnswer": "E — Pair programming",
+    "status": "new-short-question",
+    "cardId": "add-2-33"
+  },
+  {
+    "variant": 2,
+    "number": 34,
+    "cue": "Finished specs untested",
+    "rawAnswer": "A — Partially done work",
+    "status": "new-short-question",
+    "cardId": "add-2-34"
+  },
+  {
+    "variant": 2,
+    "number": 35,
+    "cue": "Delay vendor decision",
+    "rawAnswer": "E — Defer decisions",
+    "status": "new-short-question",
+    "cardId": "add-2-35"
+  },
+  {
+    "variant": 2,
+    "number": 36,
+    "cue": "Leader providing team resources",
+    "rawAnswer": "B — Carrying food and water",
+    "status": "new-short-question",
+    "cardId": "add-2-36"
+  },
+  {
+    "variant": 2,
+    "number": 37,
+    "cue": "Outdated Scrum board",
+    "rawAnswer": "E — Inspection without transparency is misleading and wasteful",
+    "status": "new-short-question",
+    "cardId": "add-2-37"
+  },
+  {
+    "variant": 2,
+    "number": 38,
+    "cue": "Scrum Team of 18",
+    "rawAnswer": "A — Form several Scrum Teams sharing one Product Backlog and Product Owner",
+    "status": "new-short-question",
+    "cardId": "add-2-38"
+  },
+  {
+    "variant": 2,
+    "number": 39,
+    "cue": "Backlog delegated to analyst",
+    "rawAnswer": "D — The Product Owner",
+    "status": "new-short-question",
+    "cardId": "add-2-39"
+  },
+  {
+    "variant": 2,
+    "number": 40,
+    "cue": "Server access blocker",
+    "rawAnswer": "A — Causing the removal of the impediment",
+    "status": "new-short-question",
+    "cardId": "add-2-40"
+  },
+  {
+    "variant": 2,
+    "number": 41,
+    "cue": "Planning week between Sprints",
+    "rawAnswer": "E — A new Sprint starts immediately after the previous one ends",
+    "status": "new-short-question",
+    "cardId": "add-2-41"
+  },
+  {
+    "variant": 2,
+    "number": 42,
+    "cue": "PO working on Sprint item",
+    "rawAnswer": "E — As a Developer, since she works on Sprint Backlog items",
+    "status": "new-short-question",
+    "cardId": "add-2-42"
+  },
+  {
+    "variant": 2,
+    "number": 43,
+    "cue": "Retrospective / process",
+    "rawAnswer": "C — Sprint Retrospective",
+    "status": "new-short-question",
+    "cardId": "add-2-43"
+  },
+  {
+    "variant": 2,
+    "number": 44,
+    "cue": "Timur persona vs actor",
+    "rawAnswer": "B — A deeper view of how typical users behave and what they value",
+    "status": "new-short-question",
+    "cardId": "add-2-44"
+  },
+  {
+    "variant": 2,
+    "number": 45,
+    "cue": "Persona-based feature priority",
+    "rawAnswer": "A — Rank features by how well they meet the personas’ needs",
+    "status": "new-short-question",
+    "cardId": "add-2-45"
+  },
+  {
+    "variant": 2,
+    "number": 46,
+    "cue": "Persona user distance",
+    "rawAnswer": "D — Personas can distance the team from real users",
+    "status": "new-short-question",
+    "cardId": "add-2-46"
+  },
+  {
+    "variant": 2,
+    "number": 47,
+    "cue": "Story WHO/role",
+    "rawAnswer": "B — The user role or persona (WHO)",
+    "status": "new-short-question",
+    "cardId": "add-2-47"
+  },
+  {
+    "variant": 2,
+    "number": 48,
+    "cue": "Acceptance criteria / testing",
+    "rawAnswer": "D — The acceptance criteria",
+    "status": "existing",
+    "questionId": 77
+  },
+  {
+    "variant": 2,
+    "number": 49,
+    "cue": "Stories + analysis models",
+    "rawAnswer": "A — Supplementing stories with analysis models",
+    "status": "new-short-question",
+    "cardId": "add-2-49"
+  },
+  {
+    "variant": 2,
+    "number": 50,
+    "cue": "Stories vs vision/roadmap",
+    "rawAnswer": "C — Teams can lose sight of the vision and roadmap",
+    "status": "new-short-question",
+    "cardId": "add-2-50"
+  },
+  {
+    "variant": 3,
+    "number": 1,
+    "cue": "Budget plan components",
+    "rawAnswer": "A — Distributed, reserve, undistributed and contract changes",
+    "status": "new-short-question",
+    "cardId": "add-3-1"
+  },
+  {
+    "variant": 3,
+    "number": 2,
+    "cue": "Earned value / integrated areas",
+    "rawAnswer": "C — Technical performance and risk",
+    "status": "new-short-question",
+    "cardId": "add-3-2"
+  },
+  {
+    "variant": 3,
+    "number": 3,
+    "cue": "Types of formal groups",
+    "rawAnswer": "C — Command and task groups",
+    "status": "new-short-question",
+    "cardId": "add-3-3"
+  },
+  {
+    "variant": 3,
+    "number": 4,
+    "cue": "Accountability equals",
+    "rawAnswer": "B — Authority plus responsibility",
+    "status": "new-short-question",
+    "cardId": "add-3-4"
+  },
+  {
+    "variant": 3,
+    "number": 5,
+    "cue": "Line managers influence / matrix",
+    "rawAnswer": "C — A weak matrix",
+    "status": "new-short-question",
+    "cardId": "add-3-5"
+  },
+  {
+    "variant": 3,
+    "number": 6,
+    "cue": "Matrix technical excellence",
+    "rawAnswer": "E — The functional departments",
+    "status": "existing",
+    "questionId": 55
+  },
+  {
+    "variant": 3,
+    "number": 7,
+    "cue": "Agile Manifesto right side",
+    "rawAnswer": "D — They have value, but the left items are valued more",
+    "status": "existing",
+    "questionId": 56
+  },
+  {
+    "variant": 3,
+    "number": 8,
+    "cue": "Kanban limits bottlenecks",
+    "rawAnswer": "A — Limit WIP",
+    "status": "existing",
+    "questionId": 57
+  },
+  {
+    "variant": 3,
+    "number": 9,
+    "cue": "Eight principles / quality",
+    "rawAnswer": "A — DSDM",
+    "status": "existing",
+    "questionId": 58
+  },
+  {
+    "variant": 3,
+    "number": 10,
+    "cue": "Scrum value / primary attention",
+    "rawAnswer": "E — Focus",
+    "status": "existing",
+    "questionId": 59
+  },
+  {
+    "variant": 3,
+    "number": 11,
+    "cue": "Who decides how work becomes Increment",
+    "rawAnswer": "E — The Developers",
+    "status": "new-short-question",
+    "cardId": "add-3-11"
+  },
+  {
+    "variant": 3,
+    "number": 12,
+    "cue": "Product Backlog item not Done",
+    "rawAnswer": "B — It returns to the Product Backlog",
+    "status": "new-short-question",
+    "cardId": "add-3-12"
+  },
+  {
+    "variant": 3,
+    "number": 13,
+    "cue": "Persona needs versus wants",
+    "rawAnswer": "D — Needs are finite, while wants are infinite",
+    "status": "new-short-question",
+    "cardId": "add-3-13"
+  },
+  {
+    "variant": 3,
+    "number": 14,
+    "cue": "INVEST / Sized appropriately",
+    "rawAnswer": "D — The team can complete it in one iteration",
+    "status": "new-short-question",
+    "cardId": "add-3-14"
+  },
+  {
+    "variant": 3,
+    "number": 15,
+    "cue": "3Cs / details left to discuss",
+    "rawAnswer": "B — Conversation",
+    "status": "new-short-question",
+    "cardId": "add-3-15"
+  },
+  {
+    "variant": 3,
+    "number": 16,
+    "cue": "Vendor misunderstands task / scope",
+    "rawAnswer": "A — Clear communication of task scope",
+    "status": "new-short-question",
+    "cardId": "add-3-16"
+  },
+  {
+    "variant": 3,
+    "number": 17,
+    "cue": "Analyzing spending variance / phase",
+    "rawAnswer": "D — Cost analysis",
+    "status": "new-short-question",
+    "cardId": "add-3-17"
+  },
+  {
+    "variant": 3,
+    "number": 18,
+    "cue": "BCWS 300, BCWP 350, ACWP 400",
+    "rawAnswer": "A — Ahead of schedule and over budget",
+    "status": "new-short-question",
+    "cardId": "add-3-18"
+  },
+  {
+    "variant": 3,
+    "number": 19,
+    "cue": "CPI 0.8, SPI 1.0 / emphasis",
+    "rawAnswer": "A — On the productivity of the work",
+    "status": "new-short-question",
+    "cardId": "add-3-19"
+  },
+  {
+    "variant": 3,
+    "number": 20,
+    "cue": "BAC 500 / 40% complete",
+    "rawAnswer": "B — $200 thousand",
+    "status": "new-short-question",
+    "cardId": "add-3-20"
+  },
+  {
+    "variant": 3,
+    "number": 21,
+    "cue": "Group cooperation / shared norms",
+    "rawAnswer": "E — Norming",
+    "status": "new-short-question",
+    "cardId": "add-3-21"
+  },
+  {
+    "variant": 3,
+    "number": 22,
+    "cue": "Position: release manager",
+    "rawAnswer": "D — A role",
+    "status": "existing",
+    "questionId": 60
+  },
+  {
+    "variant": 3,
+    "number": 23,
+    "cue": "Testing vs development blame",
+    "rawAnswer": "C — The organization may not be designed for project work",
+    "status": "existing",
+    "questionId": 61
+  },
+  {
+    "variant": 3,
+    "number": 24,
+    "cue": "Denial of integration problem",
+    "rawAnswer": "C — Denying that a problem exists",
+    "status": "existing",
+    "questionId": 62
+  },
+  {
+    "variant": 3,
+    "number": 25,
+    "cue": "One direct manager",
+    "rawAnswer": "A — Good control over personnel",
+    "status": "existing",
+    "questionId": 70
+  },
+  {
+    "variant": 3,
+    "number": 26,
+    "cue": "Four department approvals",
+    "rawAnswer": "D — Complex coordination and slow approvals",
+    "status": "existing",
+    "questionId": 71
+  },
+  {
+    "variant": 3,
+    "number": 27,
+    "cue": "Loyal departmental task force",
+    "rawAnswer": "E — A task force whose members stay loyal to their units",
+    "status": "existing",
+    "questionId": 63
+  },
+  {
+    "variant": 3,
+    "number": 28,
+    "cue": "Unused specialist after work",
+    "rawAnswer": "A — The project manager fears not getting her back later",
+    "status": "existing",
+    "questionId": 64
+  },
+  {
+    "variant": 3,
+    "number": 29,
+    "cue": "Matrix rewards functional goals",
+    "rawAnswer": "D — Compatible reward systems",
+    "status": "existing",
+    "questionId": 65
+  },
+  {
+    "variant": 3,
+    "number": 30,
+    "cue": "Agile vs predictable work",
+    "rawAnswer": "C — Knowledge work in a fast, complex setting",
+    "status": "existing",
+    "questionId": 66
+  },
+  {
+    "variant": 3,
+    "number": 31,
+    "cue": "Every feature fixed scope",
+    "rawAnswer": "B — The traditional triangle, with scope fixed",
+    "status": "existing",
+    "questionId": 67
+  },
+  {
+    "variant": 3,
+    "number": 32,
+    "cue": "Backlog drops six features",
+    "rawAnswer": "E — Simplicity — maximizing the amount of work not done",
+    "status": "existing",
+    "questionId": 80
+  },
+  {
+    "variant": 3,
+    "number": 33,
+    "cue": "XP tangled module / no behavior",
+    "rawAnswer": "E — Refactoring",
+    "status": "existing",
+    "questionId": 81
+  },
+  {
+    "variant": 3,
+    "number": 34,
+    "cue": "Four signatures / unread reports",
+    "rawAnswer": "B — Extra processes",
+    "status": "existing",
+    "questionId": 82
+  },
+  {
+    "variant": 3,
+    "number": 35,
+    "cue": "Fast coding, slow delivery",
+    "rawAnswer": "C — Optimize the whole",
+    "status": "existing",
+    "questionId": 83
+  },
+  {
+    "variant": 3,
+    "number": 36,
+    "cue": "Control vs people leaders",
+    "rawAnswer": "C — The first is management; the second is leadership",
+    "status": "existing",
+    "questionId": 84
+  },
+  {
+    "variant": 3,
+    "number": 37,
+    "cue": "Repeated problems not changed",
+    "rawAnswer": "D — Inspection without adaptation is pointless",
+    "status": "existing",
+    "questionId": 72
+  },
+  {
+    "variant": 3,
+    "number": 38,
+    "cue": "Head assigns every task",
+    "rawAnswer": "B — Self-management",
+    "status": "existing",
+    "questionId": 73
+  },
+  {
+    "variant": 3,
+    "number": 39,
+    "cue": "Deputy changes backlog",
+    "rawAnswer": "E — Convince the Product Owner to change the backlog",
+    "status": "existing",
+    "questionId": 74
+  },
+  {
+    "variant": 3,
+    "number": 40,
+    "cue": "Review runs six hours",
+    "rawAnswer": "B — That events take place and stay within the timebox",
+    "status": "existing",
+    "questionId": 75
+  },
+  {
+    "variant": 3,
+    "number": 41,
+    "cue": "Mid-Sprint work breaks goal",
+    "rawAnswer": "C — Place the request in the Product Backlog for a later Sprint",
+    "status": "existing",
+    "questionId": 76
+  },
+  {
+    "variant": 3,
+    "number": 42,
+    "cue": "Daily Scrum three questions",
+    "rawAnswer": "B — It is allowed; Developers choose the structure and techniques",
+    "status": "existing",
+    "questionId": 85
+  },
+  {
+    "variant": 3,
+    "number": 43,
+    "cue": "Review becomes slideshow",
+    "rawAnswer": "E — Make it a working session to decide what to do next",
+    "status": "existing",
+    "questionId": 86
+  },
+  {
+    "variant": 3,
+    "number": 44,
+    "cue": "Five personas / first release",
+    "rawAnswer": "E — Rank them to find those who gain the most benefit",
+    "status": "existing",
+    "questionId": 87
+  },
+  {
+    "variant": 3,
+    "number": 45,
+    "cue": "Heads project personal bias",
+    "rawAnswer": "A — Personas stop stakeholders projecting their own biases",
+    "status": "existing",
+    "questionId": 88
+  },
+  {
+    "variant": 3,
+    "number": 46,
+    "cue": "Outdated 2020 personas",
+    "rawAnswer": "A — Review and update the personas",
+    "status": "existing",
+    "questionId": 89
+  },
+  {
+    "variant": 3,
+    "number": 47,
+    "cue": "Student exam timetable story",
+    "rawAnswer": "D — As a student, I need to see my exam timetable so that I can plan",
+    "status": "existing",
+    "questionId": 187
+  },
+  {
+    "variant": 3,
+    "number": 48,
+    "cue": "QA regression / blocked card",
+    "rawAnswer": "B — The story's acceptance criteria",
+    "status": "existing",
+    "questionId": 77
+  },
+  {
+    "variant": 3,
+    "number": 49,
+    "cue": "Work changed by user stories",
+    "rawAnswer": "D — Product roadmap",
+    "status": "existing",
+    "questionId": 78
+  },
+  {
+    "variant": 3,
+    "number": 50,
+    "cue": "PDF export / missing so-that",
+    "rawAnswer": "C — Focusing on the WHAT while overlooking the WHY",
+    "status": "existing",
+    "questionId": 79
+  },
+  {
+    "variant": 4,
+    "number": 1,
+    "cue": "Unidentified contract tasks",
+    "rawAnswer": "D — The unallocated budget",
+    "status": "existing",
+    "questionId": 137
+  },
+  {
+    "variant": 4,
+    "number": 2,
+    "cue": "EVMS early warning",
+    "rawAnswer": "B — It shows deviations from plan while still small",
+    "status": "existing",
+    "questionId": 138
+  },
+  {
+    "variant": 4,
+    "number": 3,
+    "cue": "Reasons people form groups",
+    "rawAnswer": "C — Needs, proximity, attraction, goals and economics",
+    "status": "existing",
+    "questionId": 139
+  },
+  {
+    "variant": 4,
+    "number": 4,
+    "cue": "Answerable for assignment",
+    "rawAnswer": "A — Accountability",
+    "status": "existing",
+    "questionId": 140
+  },
+  {
+    "variant": 4,
+    "number": 5,
+    "cue": "Matrix strong / weak perspective",
+    "rawAnswer": "E — The project manager’s",
+    "status": "new-short-question",
+    "cardId": "add-4-5"
+  },
+  {
+    "variant": 4,
+    "number": 6,
+    "cue": "PM accountability / matrix",
+    "rawAnswer": "A — The overall success of the project",
+    "status": "existing",
+    "questionId": 141
+  },
+  {
+    "variant": 4,
+    "number": 7,
+    "cue": "Skilled team members vs methods",
+    "rawAnswer": "B — Individuals and interactions over processes and tools",
+    "status": "existing",
+    "questionId": 142
+  },
+  {
+    "variant": 4,
+    "number": 8,
+    "cue": "Kanban explicit policies",
+    "rawAnswer": "C — Write down how work is done so all can discuss it",
+    "status": "new-short-question",
+    "cardId": "add-4-8"
+  },
+  {
+    "variant": 4,
+    "number": 9,
+    "cue": "DSDM eight principles",
+    "rawAnswer": "E — Demonstrate control",
+    "status": "existing",
+    "questionId": 143
+  },
+  {
+    "variant": 4,
+    "number": 10,
+    "cue": "Scrum values direction",
+    "rawAnswer": "E — The team’s work, actions and behavior",
+    "status": "existing",
+    "questionId": 144
+  },
+  {
+    "variant": 4,
+    "number": 11,
+    "cue": "Planning max / one-month",
+    "rawAnswer": "A — Eight hours",
+    "status": "existing",
+    "questionId": 145
+  },
+  {
+    "variant": 4,
+    "number": 12,
+    "cue": "Who sizes Product Backlog",
+    "rawAnswer": "D — The Developers who will do the work",
+    "status": "existing",
+    "questionId": 146
+  },
+  {
+    "variant": 4,
+    "number": 13,
+    "cue": "What makes persona unique",
+    "rawAnswer": "B — Differentiators",
+    "status": "existing",
+    "questionId": 147
+  },
+  {
+    "variant": 4,
+    "number": 14,
+    "cue": "INVEST Testable",
+    "rawAnswer": "C — A stakeholder can validate it objectively",
+    "status": "existing",
+    "questionId": 148
+  },
+  {
+    "variant": 4,
+    "number": 15,
+    "cue": "User story title style",
+    "rawAnswer": "D — An active-verb goal phrase",
+    "status": "existing",
+    "questionId": 149
+  },
+  {
+    "variant": 4,
+    "number": 16,
+    "cue": "Quarterly records / lateness",
+    "rawAnswer": "B — Timely accounting of progress and costs",
+    "status": "existing",
+    "questionId": 150
+  },
+  {
+    "variant": 4,
+    "number": 17,
+    "cue": "Monthly status to client",
+    "rawAnswer": "B — Customer and management reporting",
+    "status": "existing",
+    "questionId": 151
+  },
+  {
+    "variant": 4,
+    "number": 18,
+    "cue": "CV / 80, 80, 70",
+    "rawAnswer": "E — Under budget by 10 and exactly on schedule",
+    "status": "existing",
+    "questionId": 152
+  },
+  {
+    "variant": 4,
+    "number": 19,
+    "cue": "CPI 1.1 / SPI 0.75",
+    "rawAnswer": "D — Improving the timeliness of physical progress",
+    "status": "existing",
+    "questionId": 153
+  },
+  {
+    "variant": 4,
+    "number": 20,
+    "cue": "12 months / SPI 0.8",
+    "rawAnswer": "E — 15 months",
+    "status": "existing",
+    "questionId": 154
+  },
+  {
+    "variant": 4,
+    "number": 21,
+    "cue": "Team final meeting / sadness",
+    "rawAnswer": "E — Adjourning",
+    "status": "existing",
+    "questionId": 155
+  },
+  {
+    "variant": 4,
+    "number": 22,
+    "cue": "Three views of business analyst",
+    "rawAnswer": "A — One role can be perceived in up to three ways",
+    "status": "existing",
+    "questionId": 156
+  },
+  {
+    "variant": 4,
+    "number": 23,
+    "cue": "On time but staff dissatisfied",
+    "rawAnswer": "D — Met targets can still hide a structural mismatch",
+    "status": "existing",
+    "questionId": 157
+  },
+  {
+    "variant": 4,
+    "number": 24,
+    "cue": "Admitting part / trust stage",
+    "rawAnswer": "B — Meeting face-to-face to solve the problem",
+    "status": "existing",
+    "questionId": 158
+  },
+  {
+    "variant": 4,
+    "number": 25,
+    "cue": "Functional communication benefit",
+    "rawAnswer": "D — Vertical communication channels are well established",
+    "status": "existing",
+    "questionId": 159
+  },
+  {
+    "variant": 4,
+    "number": 26,
+    "cue": "Strongest department wins",
+    "rawAnswer": "C — Decisions favor the strongest units",
+    "status": "existing",
+    "questionId": 160
+  },
+  {
+    "variant": 4,
+    "number": 27,
+    "cue": "Engineering vs manufacturing",
+    "rawAnswer": "C — It is referred to upper management",
+    "status": "existing",
+    "questionId": 161
+  },
+  {
+    "variant": 4,
+    "number": 28,
+    "cue": "GIS analysts / half-week",
+    "rawAnswer": "D — Each project keeps its own full-time analyst",
+    "status": "new-short-question",
+    "cardId": "add-4-28"
+  },
+  {
+    "variant": 4,
+    "number": 29,
+    "cue": "Matrix preparation / HR",
+    "rawAnswer": "C — Training, open communication and role definitions",
+    "status": "new-short-question",
+    "cardId": "add-4-29"
+  },
+  {
+    "variant": 4,
+    "number": 30,
+    "cue": "Knowledge workers",
+    "rawAnswer": "C — They apply expertise in analysis and development",
+    "status": "new-short-question",
+    "cardId": "add-4-30"
+  },
+  {
+    "variant": 4,
+    "number": 31,
+    "cue": "Agile boards / control managers",
+    "rawAnswer": "A — It is doing agile without being agile",
+    "status": "new-short-question",
+    "cardId": "add-4-31"
+  },
+  {
+    "variant": 4,
+    "number": 32,
+    "cue": "Late change before release",
+    "rawAnswer": "E — Welcome changing requirements, even late",
+    "status": "new-short-question",
+    "cardId": "add-4-32"
+  },
+  {
+    "variant": 4,
+    "number": 33,
+    "cue": "XP business representative",
+    "rawAnswer": "B — Customer",
+    "status": "new-short-question",
+    "cardId": "add-4-33"
+  },
+  {
+    "variant": 4,
+    "number": 34,
+    "cue": "Unused 3D dashboard",
+    "rawAnswer": "D — Extra features",
+    "status": "existing",
+    "questionId": 162
+  },
+  {
+    "variant": 4,
+    "number": 35,
+    "cue": "Continuous testing / Lean",
+    "rawAnswer": "D — Build quality in",
+    "status": "existing",
+    "questionId": 163
+  },
+  {
+    "variant": 4,
+    "number": 36,
+    "cue": "Architecture disagreement",
+    "rawAnswer": "A — As a positive step in team development",
+    "status": "existing",
+    "questionId": 164
+  },
+  {
+    "variant": 4,
+    "number": 37,
+    "cue": "Unexpected API behavior",
+    "rawAnswer": "B — As soon as possible, to minimize further deviation",
+    "status": "existing",
+    "questionId": 165
+  },
+  {
+    "variant": 4,
+    "number": 38,
+    "cue": "Skipped code review",
+    "rawAnswer": "E — Holding each other accountable",
+    "status": "new-short-question",
+    "cardId": "add-4-38"
+  },
+  {
+    "variant": 4,
+    "number": 39,
+    "cue": "Long-term Product Goal",
+    "rawAnswer": "C — The Product Owner",
+    "status": "new-short-question",
+    "cardId": "add-4-39"
+  },
+  {
+    "variant": 4,
+    "number": 40,
+    "cue": "Scrum rollout across company",
+    "rawAnswer": "C — It is how the Scrum Master serves the organization",
+    "status": "new-short-question",
+    "cardId": "add-4-40"
+  },
+  {
+    "variant": 4,
+    "number": 41,
+    "cue": "Regulation invalidates Sprint Goal",
+    "rawAnswer": "A — Only the Product Owner",
+    "status": "new-short-question",
+    "cardId": "add-4-41"
+  },
+  {
+    "variant": 4,
+    "number": 42,
+    "cue": "Blocker at 11 AM",
+    "rawAnswer": "A — No; Developers may adapt their plan at any time",
+    "status": "new-short-question",
+    "cardId": "add-4-42"
+  },
+  {
+    "variant": 4,
+    "number": 43,
+    "cue": "4h Review and 4h Retro",
+    "rawAnswer": "B — The Retrospective exceeds its three-hour maximum",
+    "status": "existing",
+    "questionId": 166
+  },
+  {
+    "variant": 4,
+    "number": 44,
+    "cue": "Taxpayers unavailable",
+    "rawAnswer": "A — Personas",
+    "status": "existing",
+    "questionId": 167
+  },
+  {
+    "variant": 4,
+    "number": 45,
+    "cue": "Statistics for personas",
+    "rawAnswer": "E — As a starting point for a representative pool of personas",
+    "status": "existing",
+    "questionId": 168
+  },
+  {
+    "variant": 4,
+    "number": 46,
+    "cue": "Only personas for insight",
+    "rawAnswer": "A — Personas are not a substitute for real user input",
+    "status": "existing",
+    "questionId": 169
+  },
+  {
+    "variant": 4,
+    "number": 47,
+    "cue": "Who writes user stories",
+    "rawAnswer": "B — Several roles may write stories; not every item must be one",
+    "status": "existing",
+    "questionId": 170
+  },
+  {
+    "variant": 4,
+    "number": 48,
+    "cue": "Who uses acceptance criteria",
+    "rawAnswer": "E — The Product Owner and stakeholders",
+    "status": "new-short-question",
+    "cardId": "add-4-48"
+  },
+  {
+    "variant": 4,
+    "number": 49,
+    "cue": "Short morning workshop",
+    "rawAnswer": "C — They are simple enough to learn very quickly",
+    "status": "new-short-question",
+    "cardId": "add-4-49"
+  },
+  {
+    "variant": 4,
+    "number": 50,
+    "cue": "Waterfall asks full specs",
+    "rawAnswer": "D — Stories do not give full specs upfront",
+    "status": "new-short-question",
+    "cardId": "add-4-50"
+  },
+  {
+    "variant": 5,
+    "number": 1,
+    "cue": "Нет читаемого источника",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует",
+    "status": "unverified"
+  },
+  {
+    "variant": 5,
+    "number": 2,
+    "cue": "Нет читаемого источника",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует",
+    "status": "unverified"
+  },
+  {
+    "variant": 5,
+    "number": 3,
+    "cue": "Нет читаемого источника",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует",
+    "status": "unverified"
+  },
+  {
+    "variant": 5,
+    "number": 4,
+    "cue": "Нет читаемого источника",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует",
+    "status": "unverified"
+  },
+  {
+    "variant": 5,
+    "number": 5,
+    "cue": "Three matrix varieties",
+    "rawAnswer": "A — Strong, weak, or balanced",
+    "status": "existing",
+    "questionId": 90
+  },
+  {
+    "variant": 5,
+    "number": 6,
+    "cue": "Engineering vs project management",
+    "rawAnswer": "D — To keep technical direction with engineering",
+    "status": "existing",
+    "questionId": 91
+  },
+  {
+    "variant": 5,
+    "number": 7,
+    "cue": "Respond to change vs plan",
+    "rawAnswer": "D — Initial plans were made when least was known",
+    "status": "existing",
+    "questionId": 92
+  },
+  {
+    "variant": 5,
+    "number": 8,
+    "cue": "Limit WIP purpose",
+    "rawAnswer": "A — To identify issues and minimize waste",
+    "status": "existing",
+    "questionId": 93
+  },
+  {
+    "variant": 5,
+    "number": 9,
+    "cue": "FDD good practice",
+    "rawAnswer": "A — Individual code ownership",
+    "status": "existing",
+    "questionId": 94
+  },
+  {
+    "variant": 5,
+    "number": 10,
+    "cue": "Five Scrum values",
+    "rawAnswer": "C — Commitment, focus, openness, respect and courage",
+    "status": "existing",
+    "questionId": 95
+  },
+  {
+    "variant": 5,
+    "number": 11,
+    "cue": "Sprint Backlog components",
+    "rawAnswer": "E — The Sprint Goal, selected items and the plan to deliver them",
+    "status": "existing",
+    "questionId": 118
+  },
+  {
+    "variant": 5,
+    "number": 12,
+    "cue": "Organization-wide DoD",
+    "rawAnswer": "B — Follow it as a minimum",
+    "status": "existing",
+    "questionId": 119
+  },
+  {
+    "variant": 5,
+    "number": 13,
+    "cue": "Short persona template",
+    "rawAnswer": "E — A one-page quick view of key information",
+    "status": "existing",
+    "questionId": 96
+  },
+  {
+    "variant": 5,
+    "number": 14,
+    "cue": "INVEST Valuable",
+    "rawAnswer": "B — Valuable",
+    "status": "existing",
+    "questionId": 97
+  },
+  {
+    "variant": 5,
+    "number": 15,
+    "cue": "3Cs Card content",
+    "rawAnswer": "C — A brief story and an optional title",
+    "status": "existing",
+    "questionId": 98
+  },
+  {
+    "variant": 5,
+    "number": 16,
+    "cue": "One comparison at completion",
+    "rawAnswer": "B — Compare actuals with plan frequently",
+    "status": "existing",
+    "questionId": 188
+  },
+  {
+    "variant": 5,
+    "number": 17,
+    "cue": "Operating & planning cycles",
+    "rawAnswer": "E — Planning and operations form one closed system",
+    "status": "existing",
+    "questionId": 99
+  },
+  {
+    "variant": 5,
+    "number": 18,
+    "cue": "CV/SV: 1200,1000,1100",
+    "rawAnswer": "C — CV = −100 and SV = −200",
+    "status": "existing",
+    "questionId": 100
+  },
+  {
+    "variant": 5,
+    "number": 19,
+    "cue": "CPI/SPI: 750,600,500",
+    "rawAnswer": "E — CPI = 1.2 and SPI = 0.8",
+    "status": "existing",
+    "questionId": 174
+  },
+  {
+    "variant": 5,
+    "number": 20,
+    "cue": "VAC: BAC800, BCWP400, ACWP500",
+    "rawAnswer": "B — −200 (thousand dollars) — variance at completion",
+    "status": "existing",
+    "questionId": 175
+  },
+  {
+    "variant": 5,
+    "number": 21,
+    "cue": "Group change mid-project",
+    "rawAnswer": "C — The punctuated equilibrium model",
+    "status": "existing",
+    "questionId": 101
+  },
+  {
+    "variant": 5,
+    "number": 22,
+    "cue": "Team leader behavior expectations",
+    "rawAnswer": "B — Her role set",
+    "status": "duplicate-supplement",
+    "cardId": "add-2-22"
+  },
+  {
+    "variant": 5,
+    "number": 23,
+    "cue": "Structure poorly fits projects",
+    "rawAnswer": "B — A sign the current structure fits projects poorly",
+    "status": "duplicate-supplement",
+    "cardId": "add-2-23"
+  },
+  {
+    "variant": 5,
+    "number": 24,
+    "cue": "Trust stages cannot be skipped",
+    "rawAnswer": "D — Several intermediate stages of trust must come first",
+    "status": "existing",
+    "questionId": 104
+  },
+  {
+    "variant": 5,
+    "number": 25,
+    "cue": "Mass production / functional",
+    "rawAnswer": "B — It suits mass production within set specifications",
+    "status": "existing",
+    "questionId": 177
+  },
+  {
+    "variant": 5,
+    "number": 26,
+    "cue": "Committee solutions / authority",
+    "rawAnswer": "D — No one holds formal authority over the total project",
+    "status": "existing",
+    "questionId": 105
+  },
+  {
+    "variant": 5,
+    "number": 27,
+    "cue": "Project coordinator loyalty",
+    "rawAnswer": "A — Give project control to people loyal to the project",
+    "status": "existing",
+    "questionId": 106
+  },
+  {
+    "variant": 5,
+    "number": 28,
+    "cue": "Stable work / projectized",
+    "rawAnswer": "E — A continuous flow of projects",
+    "status": "existing",
+    "questionId": 107
+  },
+  {
+    "variant": 5,
+    "number": 29,
+    "cue": "Matrix / fast-changing market",
+    "rawAnswer": "B — A firm in a rapidly changing market",
+    "status": "existing",
+    "questionId": 108
+  },
+  {
+    "variant": 5,
+    "number": 30,
+    "cue": "Detailed upfront mobile app plan",
+    "rawAnswer": "A — A defined process was used for uncertain work",
+    "status": "existing",
+    "questionId": 178
+  },
+  {
+    "variant": 5,
+    "number": 31,
+    "cue": "Personal to organizational agility",
+    "rawAnswer": "D — Encourage others to become agile",
+    "status": "existing",
+    "questionId": 120
+  },
+  {
+    "variant": 5,
+    "number": 32,
+    "cue": "Emails vs face-to-face",
+    "rawAnswer": "D — Face-to-face talk conveys information best",
+    "status": "existing",
+    "questionId": 121
+  },
+  {
+    "variant": 5,
+    "number": 33,
+    "cue": "XP monthly merge failure",
+    "rawAnswer": "A — Continuous integration",
+    "status": "existing",
+    "questionId": 122
+  },
+  {
+    "variant": 5,
+    "number": 34,
+    "cue": "Multiple city handoffs",
+    "rawAnswer": "A — Motion",
+    "status": "existing",
+    "questionId": 123
+  },
+  {
+    "variant": 5,
+    "number": 35,
+    "cue": "Users test weekly prototypes",
+    "rawAnswer": "C — Amplify learning",
+    "status": "existing",
+    "questionId": 109
+  },
+  {
+    "variant": 5,
+    "number": 36,
+    "cue": "Failed prototypes / fear",
+    "rawAnswer": "D — Making experimentation safe",
+    "status": "existing",
+    "questionId": 110
+  },
+  {
+    "variant": 5,
+    "number": 37,
+    "cue": "Removing unused approvals",
+    "rawAnswer": "A — Lean thinking",
+    "status": "existing",
+    "questionId": 111
+  },
+  {
+    "variant": 5,
+    "number": 38,
+    "cue": "External UX/database requests",
+    "rawAnswer": "C — Cross-functionality",
+    "status": "existing",
+    "questionId": 112
+  },
+  {
+    "variant": 5,
+    "number": 39,
+    "cue": "Department overrides Product Owner",
+    "rawAnswer": "B — The entire organization must respect the Product Owner's decisions",
+    "status": "existing",
+    "questionId": 113
+  },
+  {
+    "variant": 5,
+    "number": 40,
+    "cue": "Scrum Master daily KPIs",
+    "rawAnswer": "B — A true leader who serves the Scrum Team",
+    "status": "existing",
+    "questionId": 182
+  },
+  {
+    "variant": 5,
+    "number": 41,
+    "cue": "Mid-Sprint big item / scope",
+    "rawAnswer": "A — Clarify and renegotiate scope with the Product Owner",
+    "status": "existing",
+    "questionId": 114
+  },
+  {
+    "variant": 5,
+    "number": 42,
+    "cue": "Daily Scrum purpose",
+    "rawAnswer": "E — Inspect Sprint Goal progress and adapt the plan",
+    "status": "existing",
+    "questionId": 115
+  },
+  {
+    "variant": 5,
+    "number": 43,
+    "cue": "Automation after Retrospective",
+    "rawAnswer": "E — Add it to the Sprint Backlog for the next Sprint",
+    "status": "existing",
+    "questionId": 116
+  },
+  {
+    "variant": 5,
+    "number": 44,
+    "cue": "Personas vs job roles",
+    "rawAnswer": "D — Personas are fictional archetypes of typical users",
+    "status": "existing",
+    "questionId": 125
+  },
+  {
+    "variant": 5,
+    "number": 45,
+    "cue": "One-page persona / tomorrow",
+    "rawAnswer": "C — A one-page short template with key facts",
+    "status": "existing",
+    "questionId": 126
+  },
+  {
+    "variant": 5,
+    "number": 46,
+    "cue": "Generic average citizen",
+    "rawAnswer": "C — It is too generic to be distinct or realistic",
+    "status": "existing",
+    "questionId": 127
+  },
+  {
+    "variant": 5,
+    "number": 47,
+    "cue": "Rewrite avoid queue story",
+    "rawAnswer": "B — In order to avoid a queue, as a citizen, I need to book a slot",
+    "status": "existing",
+    "questionId": 128
+  },
+  {
+    "variant": 5,
+    "number": 48,
+    "cue": "Holiday bookings unexpected",
+    "rawAnswer": "E — Clear acceptance criteria for the story",
+    "status": "existing",
+    "questionId": 129
+  },
+  {
+    "variant": 5,
+    "number": 49,
+    "cue": "Joint story-writing improves",
+    "rawAnswer": "C — Joint work on stories builds shared understanding",
+    "status": "existing",
+    "questionId": 130
+  },
+  {
+    "variant": 5,
+    "number": 50,
+    "cue": "Нет читаемого источника",
+    "rawAnswer": "НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует",
+    "status": "unverified"
+  }
+]

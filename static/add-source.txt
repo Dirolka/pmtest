@@ -1,0 +1,291 @@
+PROJECT MANAGEMENT — END-TERM TEST
+Варианты 1, 2, 3, 4, 5. Ключевые слова вопроса и ответы на английском языке.
+Формат: сначала короткая подсказка из вопроса, затем правильная буква и содержание ответа. Поиск выполняйте по словам вопроса, а не только по его номеру: формулировки в вариантах различаются.
+Важная проверка: места без читаемого первоисточника намеренно оставлены с пометкой «НЕ ПРОВЕРЕНО». Это безопаснее, чем записать выдуманную букву.
+VARIANT 1
+Основа: ранее согласованный ключ Variant 1. №23: буква E сохранена, но точный текст варианта E в доступных источниках не подтверждён.
+PART A — THEORY (1–15)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+1	Contract changes budget	A — The undistributed budget
+2	Earned value / problems	E — Finding and solving problems before they grow
+3	Formal groups creation	A — By management decision, for organizational goals
+4	Power for final decisions	D — Authority
+5	Strong versus weak matrix	D — Who has more influence over workers’ daily performance
+6	Matrix combines structures	C — Pure functional and project structures
+7	Comprehensive documentation	B — Working software
+8	Kanban Japanese meaning	D — Signboard
+9	Agile family / size & criticality	B — Crystal
+10	Difficult problems / value	A — Courage
+11	Sprint Planning topic one	E — Why is this Sprint valuable?
+12	Product Backlog commitment	B — The Product Goal
+13	Persona interaction / why	C — Motivations
+14	INVEST / delivery flexibility	C — Negotiable
+15	3Cs elements	E — Card, Conversation and Confirmation
+PART B — SCENARIOS (16–50)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+16	Unfinished cost forecast	B — Periodic re-estimation of cost to complete
+17	Signed work order	A — Work authorization and release
+18	CV / 450, 400, 500	B — −100; the work cost more than budgeted
+19	CPI / 400, 500	B — 0.8; work is costing more than planned
+20	BAC 1000 / CPI 0.8	D — $1,250 thousand
+21	Developers argue	C — Storming
+22	Different role expectations	A — Role conflict
+23	Skilled engineers / structure	E — Точная формулировка варианта E не подтверждена исходником [текст требует фото]
+24	Trust stage / future trouble	A — Both begin to formally anticipate problems
+25	Department spending	B — Easier budgeting and cost control
+26	Client focal point	E — No customer focal point
+27	Coordination before PMs	A — Integrating mechanisms
+28	Program manager and merit	E — Full line authority over the project
+29	Fast fintech / matrix	D — A matrix organization
+30	Standard school / known steps	E — A defined process with steps set in advance
+31	Fixed budget & deadline	A — Adjust scope within fixed cost and time
+32	80% completed story	B — Working software is the measure of progress
+33	Tests before code / XP	D — Test-driven development
+34	Parallel projects / handoffs	C — Task switching
+35	Choosing tools / Lean	E — Empower the team
+36	Unplanned meetings / leadership	D — Shielding the team from interruptions
+37	Citizen portal / feedback	C — Empiricism
+38	Testing sub-team	D — Reject it: Scrum Team has no sub-teams or hierarchies
+39	Product Owner committee	B — The Product Owner must be one person, not a committee
+40	Scrum Master assigning tasks	A — The Scrum Master should coach self-management, not assign work
+41	Six-week Sprints	E — Sprints must be fixed at one month or less
+42	Long Daily Scrum	C — Keep it to 15 minutes, focused on the Sprint Goal
+43	Stakeholders test product	D — Sprint Review
+44	Bakery customer / persona	C — Empathize with users and align the portal with their needs
+45	Expand personas	E — Expand personas into the long template using new research
+46	Combined average persona	A — A generic persona that tries to suit everyone at once
+47	Income certificate / WHY	D — The benefit or value to the user (WHY)
+48	Loan acceptance criteria	B — Acceptance criteria define story boundaries for verification
+49	Fortnightly releases	C — Small testable slices enable fast delivery and feedback
+50	900 stories / backlog	C — Refine and reprioritize the backlog regularly
+VARIANT 2
+Основа: собранные фотографии и три транскрипции Variant 2. №12: подтверждено понятие The Increment / Definition of Done, однако буква ответа в исходной фотографии обрезана.
+PART A — THEORY (1–15)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+1	Unallocated budget meaning	C — Tasks not yet identified or authorized
+2	EVMS continuous warning	B — To catch variances while they are small
+3	Two informal groups	D — Interest and friendship groups
+4	Responsibility definition	E — A duty to perform assigned work effectively
+5	More PM influence	D — As a strong matrix
+6	PM authority source	A — Directly from the general manager
+7	Customer collaboration valued over	E — Contract negotiation
+8	Kanban origin	C — Toyota’s lean production system
+9	FDD / domain model	C — Feature-Driven Development
+10	Scrum openness	A — Sharing the work and its problems honestly with others
+11	Sprint Goal finalization	B — Sprint Planning
+12	Definition of Done commitment	НЕ ПРОВЕРЕНО — The Increment (Definition of Done). Буква A–E не подтверждена
+13	Persona name and photo	D — To make it relatable and build empathy
+14	INVEST independent	A — It can be delivered apart from other features
+15	3Cs confirmation	B — As acceptance criteria
+PART B — SCENARIOS (16–50)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+16	Unapproved spending	E — Disciplined budgeting and authorization of spending
+17	Weekly invoices / operating cycle	E — Cost data collection and reporting
+18	SV / 600, 500, 450	D — −100; progress is slower than planned
+19	SPI / BCWP 500, BCWS 400	B — 1.25; progress is ahead of plan
+20	BAC 2000, EAC 2500	C — −500; a forecast overrun at completion
+21	First working group meeting	C — Forming
+22	Sponsor/team/auditor expectations	B — Her role set
+23	Unhappy data scientists	B — A sign the current structure fits projects poorly
+24	Anticipating trouble / trust	C — Anticipating problems together
+25	Scarce specialists	B — Better use of scarce specialists
+26	Functional jobs before project	C — Functional priorities come before project tasks
+27	Representatives and loyalty	D — “Manager” implies a permanent relationship
+28	Projectized staff authority	A — The cost of maintaining the organization
+29	Matrix for dynamic market	A — It seeks technology and schedule together
+30	Work complexity / method	D — An empirical, iterative and incremental process
+31	Agile planning triangle	D — Traditional fixes scope; agile fixes cost and time
+32	Sustainable pace	C — Keeping a constant pace
+33	Two people at workstation	E — Pair programming
+34	Finished specs untested	A — Partially done work
+35	Delay vendor decision	E — Defer decisions
+36	Leader providing team resources	B — Carrying food and water
+37	Outdated Scrum board	E — Inspection without transparency is misleading and wasteful
+38	Scrum Team of 18	A — Form several Scrum Teams sharing one Product Backlog and Product Owner
+39	Backlog delegated to analyst	D — The Product Owner
+40	Server access blocker	A — Causing the removal of the impediment
+41	Planning week between Sprints	E — A new Sprint starts immediately after the previous one ends
+42	PO working on Sprint item	E — As a Developer, since she works on Sprint Backlog items
+43	Retrospective / process	C — Sprint Retrospective
+44	Timur persona vs actor	B — A deeper view of how typical users behave and what they value
+45	Persona-based feature priority	A — Rank features by how well they meet the personas’ needs
+46	Persona user distance	D — Personas can distance the team from real users
+47	Story WHO/role	B — The user role or persona (WHO)
+48	Acceptance criteria / testing	D — The acceptance criteria
+49	Stories + analysis models	A — Supplementing stories with analysis models
+50	Stories vs vision/roadmap	C — Teams can lose sight of the vision and roadmap
+VARIANT 3
+Основа: документ Var3.docx (12 страниц) и ранее собранные фотографии Variant 3. Все 50 вопросов теперь доступны. Ранее отсутствовавшие №1–5 и №11–21 заполнены по изображениям в Var3.docx. В №13 уточнён ответ D (Needs are finite, while wants are infinite).
+PART A — THEORY (1–15)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+1	Budget plan components	A — Distributed, reserve, undistributed and contract changes
+2	Earned value / integrated areas	C — Technical performance and risk
+3	Types of formal groups	C — Command and task groups
+4	Accountability equals	B — Authority plus responsibility
+5	Line managers influence / matrix	C — A weak matrix
+6	Matrix technical excellence	E — The functional departments
+7	Agile Manifesto right side	D — They have value, but the left items are valued more
+8	Kanban limits bottlenecks	A — Limit WIP
+9	Eight principles / quality	A — DSDM
+10	Scrum value / primary attention	E — Focus
+11	Who decides how work becomes Increment	E — The Developers
+12	Product Backlog item not Done	B — It returns to the Product Backlog
+13	Persona needs versus wants	D — Needs are finite, while wants are infinite
+14	INVEST / Sized appropriately	D — The team can complete it in one iteration
+15	3Cs / details left to discuss	B — Conversation
+PART B — SCENARIOS (16–50)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+16	Vendor misunderstands task / scope	A — Clear communication of task scope
+17	Analyzing spending variance / phase	D — Cost analysis
+18	BCWS 300, BCWP 350, ACWP 400	A — Ahead of schedule and over budget
+19	CPI 0.8, SPI 1.0 / emphasis	A — On the productivity of the work
+20	BAC 500 / 40% complete	B — $200 thousand
+21	Group cooperation / shared norms	E — Norming
+22	Position: release manager	D — A role
+23	Testing vs development blame	C — The organization may not be designed for project work
+24	Denial of integration problem	C — Denying that a problem exists
+25	One direct manager	A — Good control over personnel
+26	Four department approvals	D — Complex coordination and slow approvals
+27	Loyal departmental task force	E — A task force whose members stay loyal to their units
+28	Unused specialist after work	A — The project manager fears not getting her back later
+29	Matrix rewards functional goals	D — Compatible reward systems
+30	Agile vs predictable work	C — Knowledge work in a fast, complex setting
+31	Every feature fixed scope	B — The traditional triangle, with scope fixed
+32	Backlog drops six features	E — Simplicity — maximizing the amount of work not done
+33	XP tangled module / no behavior	E — Refactoring
+34	Four signatures / unread reports	B — Extra processes
+35	Fast coding, slow delivery	C — Optimize the whole
+36	Control vs people leaders	C — The first is management; the second is leadership
+37	Repeated problems not changed	D — Inspection without adaptation is pointless
+38	Head assigns every task	B — Self-management
+39	Deputy changes backlog	E — Convince the Product Owner to change the backlog
+40	Review runs six hours	B — That events take place and stay within the timebox
+41	Mid-Sprint work breaks goal	C — Place the request in the Product Backlog for a later Sprint
+42	Daily Scrum three questions	B — It is allowed; Developers choose the structure and techniques
+43	Review becomes slideshow	E — Make it a working session to decide what to do next
+44	Five personas / first release	E — Rank them to find those who gain the most benefit
+45	Heads project personal bias	A — Personas stop stakeholders projecting their own biases
+46	Outdated 2020 personas	A — Review and update the personas
+47	Student exam timetable story	D — As a student, I need to see my exam timetable so that I can plan
+48	QA regression / blocked card	B — The story's acceptance criteria
+49	Work changed by user stories	D — Product roadmap
+50	PDF export / missing so-that	C — Focusing on the WHAT while overlooking the WHY
+VARIANT 4
+Основа: фотографии с заголовком Variant 4 и два проверенных документа. №1 D (Unallocated budget) и №5 E (Project manager’s): выбор дополнительно подтверждён формулировками Kerzner; альтернативный PDF содержит две ошибки.
+PART A — THEORY (1–15)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+1	Unidentified contract tasks	D — The unallocated budget
+2	EVMS early warning	B — It shows deviations from plan while still small
+3	Reasons people form groups	C — Needs, proximity, attraction, goals and economics
+4	Answerable for assignment	A — Accountability
+5	Matrix strong / weak perspective	E — The project manager’s
+6	PM accountability / matrix	A — The overall success of the project
+7	Skilled team members vs methods	B — Individuals and interactions over processes and tools
+8	Kanban explicit policies	C — Write down how work is done so all can discuss it
+9	DSDM eight principles	E — Demonstrate control
+10	Scrum values direction	E — The team’s work, actions and behavior
+11	Planning max / one-month	A — Eight hours
+12	Who sizes Product Backlog	D — The Developers who will do the work
+13	What makes persona unique	B — Differentiators
+14	INVEST Testable	C — A stakeholder can validate it objectively
+15	User story title style	D — An active-verb goal phrase
+PART B — SCENARIOS (16–50)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+16	Quarterly records / lateness	B — Timely accounting of progress and costs
+17	Monthly status to client	B — Customer and management reporting
+18	CV / 80, 80, 70	E — Under budget by 10 and exactly on schedule
+19	CPI 1.1 / SPI 0.75	D — Improving the timeliness of physical progress
+20	12 months / SPI 0.8	E — 15 months
+21	Team final meeting / sadness	E — Adjourning
+22	Three views of business analyst	A — One role can be perceived in up to three ways
+23	On time but staff dissatisfied	D — Met targets can still hide a structural mismatch
+24	Admitting part / trust stage	B — Meeting face-to-face to solve the problem
+25	Functional communication benefit	D — Vertical communication channels are well established
+26	Strongest department wins	C — Decisions favor the strongest units
+27	Engineering vs manufacturing	C — It is referred to upper management
+28	GIS analysts / half-week	D — Each project keeps its own full-time analyst
+29	Matrix preparation / HR	C — Training, open communication and role definitions
+30	Knowledge workers	C — They apply expertise in analysis and development
+31	Agile boards / control managers	A — It is doing agile without being agile
+32	Late change before release	E — Welcome changing requirements, even late
+33	XP business representative	B — Customer
+34	Unused 3D dashboard	D — Extra features
+35	Continuous testing / Lean	D — Build quality in
+36	Architecture disagreement	A — As a positive step in team development
+37	Unexpected API behavior	B — As soon as possible, to minimize further deviation
+38	Skipped code review	E — Holding each other accountable
+39	Long-term Product Goal	C — The Product Owner
+40	Scrum rollout across company	C — It is how the Scrum Master serves the organization
+41	Regulation invalidates Sprint Goal	A — Only the Product Owner
+42	Blocker at 11 AM	A — No; Developers may adapt their plan at any time
+43	4h Review and 4h Retro	B — The Retrospective exceeds its three-hour maximum
+44	Taxpayers unavailable	A — Personas
+45	Statistics for personas	E — As a starting point for a representative pool of personas
+46	Only personas for insight	A — Personas are not a substitute for real user input
+47	Who writes user stories	B — Several roles may write stories; not every item must be one
+48	Who uses acceptance criteria	E — The Product Owner and stakeholders
+49	Short morning workshop	C — They are simple enough to learn very quickly
+50	Waterfall asks full specs	D — Stories do not give full specs upfront
+VARIANT 5
+Основа: группа фотографий, определённая как Variant 5. Видны и проверены №5–49; №1–4 и №50 в фотографиях отсутствуют. Эти позиции оставлены без выдуманных ответов.
+PART A — THEORY (1–15)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+1	Нет читаемого источника	НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует
+2	Нет читаемого источника	НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует
+3	Нет читаемого источника	НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует
+4	Нет читаемого источника	НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует
+5	Three matrix varieties	A — Strong, weak, or balanced
+6	Engineering vs project management	D — To keep technical direction with engineering
+7	Respond to change vs plan	D — Initial plans were made when least was known
+8	Limit WIP purpose	A — To identify issues and minimize waste
+9	FDD good practice	A — Individual code ownership
+10	Five Scrum values	C — Commitment, focus, openness, respect and courage
+11	Sprint Backlog components	E — The Sprint Goal, selected items and the plan to deliver them
+12	Organization-wide DoD	B — Follow it as a minimum
+13	Short persona template	E — A one-page quick view of key information
+14	INVEST Valuable	B — Valuable
+15	3Cs Card content	C — A brief story and an optional title
+PART B — SCENARIOS (16–50)
+№	Ключевые слова вопроса	Ответ (буква + текст)
+16	One comparison at completion	B — Compare actuals with plan frequently
+17	Operating & planning cycles	E — Planning and operations form one closed system
+18	CV/SV: 1200,1000,1100	C — CV = −100 and SV = −200
+19	CPI/SPI: 750,600,500	E — CPI = 1.2 and SPI = 0.8
+20	VAC: BAC800, BCWP400, ACWP500	B — −200 (thousand dollars) — variance at completion
+21	Group change mid-project	C — The punctuated equilibrium model
+22	Team leader behavior expectations	B — Her role set
+23	Structure poorly fits projects	B — A sign the current structure fits projects poorly
+24	Trust stages cannot be skipped	D — Several intermediate stages of trust must come first
+25	Mass production / functional	B — It suits mass production within set specifications
+26	Committee solutions / authority	D — No one holds formal authority over the total project
+27	Project coordinator loyalty	A — Give project control to people loyal to the project
+28	Stable work / projectized	E — A continuous flow of projects
+29	Matrix / fast-changing market	B — A firm in a rapidly changing market
+30	Detailed upfront mobile app plan	A — A defined process was used for uncertain work
+31	Personal to organizational agility	D — Encourage others to become agile
+32	Emails vs face-to-face	D — Face-to-face talk conveys information best
+33	XP monthly merge failure	A — Continuous integration
+34	Multiple city handoffs	A — Motion
+35	Users test weekly prototypes	C — Amplify learning
+36	Failed prototypes / fear	D — Making experimentation safe
+37	Removing unused approvals	A — Lean thinking
+38	External UX/database requests	C — Cross-functionality
+39	Department overrides Product Owner	B — The entire organization must respect the Product Owner's decisions
+40	Scrum Master daily KPIs	B — A true leader who serves the Scrum Team
+41	Mid-Sprint big item / scope	A — Clarify and renegotiate scope with the Product Owner
+42	Daily Scrum purpose	E — Inspect Sprint Goal progress and adapt the plan
+43	Automation after Retrospective	E — Add it to the Sprint Backlog for the next Sprint
+44	Personas vs job roles	D — Personas are fictional archetypes of typical users
+45	One-page persona / tomorrow	C — A one-page short template with key facts
+46	Generic average citizen	C — It is too generic to be distinct or realistic
+47	Rewrite avoid queue story	B — In order to avoid a queue, as a citizen, I need to book a slot
+48	Holiday bookings unexpected	E — Clear acceptance criteria for the story
+49	Joint story-writing improves	C — Joint work on stories builds shared understanding
+50	Нет читаемого источника	НЕ ПРОВЕРЕНО — Не подтверждено: фотография с вопросом отсутствует
+ПРИМЕЧАНИЯ К СВЕРКЕ
+1. Названия вариантов установлены по заголовкам и сопоставлению текстов. Variant 3 полностью подтверждён набором Var3.docx (12 страниц): вопросы №1–50. Для Variant 5 фотографии остаются неполными.
+2. Для Variant 4 №1 в Project Management (Harold Kerzner) «unallocated budget» — логическая группировка задач, ещё не идентифицированных/авторизованных; «undistributed budget» относится к изменениям контракта без завершённого планирования.
+3. Для Variant 4 №5 Kerzner определяет сильную/слабую матрицу относительно влияния PM; формулировка «seen through the eyes of the project manager» подтверждает E.
+4. Сверка Scrum проведена по The Scrum Guide (2020): Sprint Planning 8h, Review 4h, Retrospective 3h, Sprint Backlog = Goal + selected items + plan; Developers вправе менять план в ходе дня.
+5. Расчёты: CV = BCWP − ACWP; SV = BCWP − BCWS; CPI = BCWP / ACWP; SPI = BCWP / BCWS; EAC = BAC / CPI; VAC = BAC − EAC.
+Использованные материалы: присланные фотографии экзамена, ос(1).docx, ос.docx, PM_EndTerm_Variant4_Answers(1).pdf, транскрипции Variant_2, khuiBobra, slivAltushek, Var3.docx (12 страниц), предыдущий ключ 1/2/4; Project Management: A Systems Approach (H. Kerzner), The Scrum Guide (2020).
